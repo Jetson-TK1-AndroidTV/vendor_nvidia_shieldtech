@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="accessibility_quick_settings_rsmouse">Віртуальна миша <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+  <string name="quick_settings_rsmouse_on_label">Віртуальна миша ввімкнена</string>
+  <string name="quick_settings_rsmouse_off_label">Віртуальна миша вимкнена</string>
+  <string name="quick_settings_rsmouse_default">1</string>
+  <string name="accessibility_quick_settings_fullscreen">Повноекранний режим <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+  <string name="quick_settings_fullscreen_on_label">Повноекранний режим увімкнено</string>
+  <string name="quick_settings_fullscreen_off_label">Повноекранний режим</string>
+  <string name="quick_settings_fullscreen_default">0</string>
+  <string name="accessibility_quick_settings_wifi_js">Бездротовий контролер SHIELD.</string>
+  <string name="quick_settings_wifi_js_on_label">Бездротовий контролер SHIELD</string>
+  <string name="quick_settings_wifi_js_off_label">Бездротовий контролер SHIELD</string>
+  <string name="quick_settings_wifi_js_default">0</string>
+</resources>

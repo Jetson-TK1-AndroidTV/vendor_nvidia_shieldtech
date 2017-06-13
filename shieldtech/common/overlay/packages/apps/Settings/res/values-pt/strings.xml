@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="controller_settings">Controlador</string>
+  <string name="controller_settings_title">Controlador</string>
+  <string name="controller_rsmouse_text">Use a alavanca direita como mouse virtual</string>
+  <string name="controller_rsmouse_summary">Clique com o botão direito, botão A ou empurre a alavanca direita para baixo.</string>
+  <string name="mouse_mode_text">Tratar o mouse como toque</string>
+  <string name="mouse_mode_summary">Tratar todos os cliques do mouse como toques de tela</string>
+  <string name="nv_category_vmouse">Mouse virtual</string>
+  <string name="title_header_tv_mode">"Modo de console"</string>
+  <string name="title_enter_tv_mode">"Entrar no modo de console agora"</string>
+  <string name="title_exit_tv_mode">"Sair do modo de console agora"</string>
+  <string name="title_prompt_tv_mode">"Solicitar para trocar de modos quando o HDMI está conectado"</string>
+  <string name="fullscreen_mode_title">Modo de tela cheia</string>
+  <string name="fullscreen_mode_text">Esconde a barra de status e a de navegação</string>
+  <string name="nv_category_blake">Controlador sem fio SHIELD</string>
+  <string name="blake_pair">Conexão de um controlador sem fio</string>
+  <string name="blake_touch">Ativar o touchpad</string>
+  <string name="blake_touch_summary">Ativar o touchpad no controlador sem fio SHIELD</string>
+  <string name="blake_forget_controllers">Esqueça todos os controladores</string>
+  <string name="blake_quick_help">Guia rápido</string>
+</resources>

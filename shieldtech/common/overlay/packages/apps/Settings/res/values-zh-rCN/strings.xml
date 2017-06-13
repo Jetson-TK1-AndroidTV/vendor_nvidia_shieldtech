@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="controller_settings">控制键</string>
+  <string name="controller_settings_title">控制键</string>
+  <string name="controller_rsmouse_text">将右摇杆用作虚拟鼠标</string>
+  <string name="controller_rsmouse_summary">使用右扳机键，或通过下推右摇杆进行点击</string>
+  <string name="mouse_mode_text">将鼠标当作触摸</string>
+  <string name="mouse_mode_summary">将所有鼠标点击当作屏幕触摸</string>
+  <string name="nv_category_vmouse">虚拟鼠标</string>
+  <string name="title_header_tv_mode">"控制台模式"</string>
+  <string name="title_enter_tv_mode">"立刻进入控制台模式"</string>
+  <string name="title_exit_tv_mode">"立刻退出控制台模式"</string>
+  <string name="title_prompt_tv_mode">"HDMI 连接时提示切换模式"</string>
+  <string name="fullscreen_mode_title">全屏模式</string>
+  <string name="fullscreen_mode_text">隐藏状态栏和导航栏</string>
+  <string name="nv_category_blake">SHIELD 无线控制器</string>
+  <string name="blake_pair">连接一个无线控制器</string>
+  <string name="blake_touch">启用触摸板</string>
+  <string name="blake_touch_summary">在 SHIELD 无线控制器上启用触摸板</string>
+  <string name="blake_forget_controllers">忽略所有控制器</string>
+  <string name="blake_quick_help">快速指南</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="controller_settings">Contrôleur</string>
+  <string name="controller_settings_title">Contrôleur</string>
+  <string name="controller_rsmouse_text">Utiliser la commande de droite comme souris virtuelle</string>
+  <string name="controller_rsmouse_summary">Cliquer avec la détente droite, le bouton A ou en appuyant vers le bas sur la commande de droite</string>
+  <string name="mouse_mode_text">Traiter l\'action de la souris comme une commande tactile</string>
+  <string name="mouse_mode_summary">Traiter tous les clics de souris comme des contacts tactiles</string>
+  <string name="nv_category_vmouse">Souris virtuelle</string>
+  <string name="title_header_tv_mode">"Mode Console"</string>
+  <string name="title_enter_tv_mode">"Appliquer le mode Console maintenant"</string>
+  <string name="title_exit_tv_mode">"Quitter le mode Console maintenant"</string>
+  <string name="title_prompt_tv_mode">"Invitation à basculer d\'un mode à \l\'autre lors d\'une connexion HDMI"</string>
+  <string name="fullscreen_mode_title">Mode plein écran</string>
+  <string name="fullscreen_mode_text">Masquer la barre d\'état et la barre de navigation</string>
+  <string name="nv_category_blake">Contrôleur sans fil SHIELD</string>
+  <string name="blake_pair">Connecter un contrôleur sans fil</string>
+  <string name="blake_touch">Activer le pavé tactile</string>
+  <string name="blake_touch_summary">Activer le pavé tactile sur le contrôleur sans fil SHIELD</string>
+  <string name="blake_forget_controllers">Supprimer tous les contrôleurs</string>
+  <string name="blake_quick_help">Guide rapide</string>
+</resources>

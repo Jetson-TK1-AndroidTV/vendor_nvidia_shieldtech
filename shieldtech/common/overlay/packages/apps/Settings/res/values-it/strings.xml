@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="controller_settings">Controller</string>
+  <string name="controller_settings_title">Controller</string>
+  <string name="controller_rsmouse_text">Uso della levetta destra come mouse virtuale</string>
+  <string name="controller_rsmouse_summary">Fai clic con il tasto RT, il pulsante A o premendo la levetta destra verso il basso.</string>
+  <string name="mouse_mode_text">Considera il mouse come tocco</string>
+  <string name="mouse_mode_summary">Considera tutti i clic del mouse come tocchi sullo schermo</string>
+  <string name="nv_category_vmouse">Mouse virtuale</string>
+  <string name="title_header_tv_mode">"Modalità Console"</string>
+  <string name="title_enter_tv_mode">"Entra in modalità Console"</string>
+  <string name="title_exit_tv_mode">"Esci dalla modalità Console"</string>
+  <string name="title_prompt_tv_mode">"Richiedi di cambiare modalità quando viene collegato il cavo HDMI"</string>
+  <string name="fullscreen_mode_title">Modalità schermo intero</string>
+  <string name="fullscreen_mode_text">Nascondi barra di stato e barra di navigazione</string>
+  <string name="nv_category_blake">Controller wireless SHIELD</string>
+  <string name="blake_pair">Collega un controller wireless</string>
+  <string name="blake_touch">Abilita touchpad</string>
+  <string name="blake_touch_summary">Abilita touchpad su controller wireless SHIELD</string>
+  <string name="blake_forget_controllers">Elimina tutti i controller</string>
+  <string name="blake_quick_help">Guida rapida</string>
+</resources>

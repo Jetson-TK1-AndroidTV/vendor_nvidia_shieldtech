@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="accessibility_quick_settings_rsmouse">Ratón virtual <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+  <string name="quick_settings_rsmouse_on_label">Ratón virtual activado</string>
+  <string name="quick_settings_rsmouse_off_label">Ratón virtual apagado</string>
+  <string name="quick_settings_rsmouse_default">1</string>
+  <string name="accessibility_quick_settings_fullscreen">Modo de pantalla completa <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+  <string name="quick_settings_fullscreen_on_label">Pantalla completa activada</string>
+  <string name="quick_settings_fullscreen_off_label">Modo de pantalla completa</string>
+  <string name="quick_settings_fullscreen_default">0</string>
+  <string name="accessibility_quick_settings_wifi_js">Controlador inalámbrico de SHIELD.</string>
+  <string name="quick_settings_wifi_js_on_label">Controlador inalámbrico de SHIELD</string>
+  <string name="quick_settings_wifi_js_off_label">Controlador inalámbrico de SHIELD</string>
+  <string name="quick_settings_wifi_js_default">0</string>
+</resources>

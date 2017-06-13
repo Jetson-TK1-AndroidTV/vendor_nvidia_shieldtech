@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="accessibility_quick_settings_rsmouse">Mouse virtuale <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+  <string name="quick_settings_rsmouse_on_label">Mouse virtuale attivato</string>
+  <string name="quick_settings_rsmouse_off_label">Mouse virtuale disattivato</string>
+  <string name="quick_settings_rsmouse_default">1</string>
+  <string name="accessibility_quick_settings_fullscreen">Modalità schermo intero <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+  <string name="quick_settings_fullscreen_on_label">Modalità schermo intero attiva</string>
+  <string name="quick_settings_fullscreen_off_label">Modalità schermo intero</string>
+  <string name="quick_settings_fullscreen_default">0</string>
+  <string name="accessibility_quick_settings_wifi_js">Controller wireless SHIELD.</string>
+  <string name="quick_settings_wifi_js_on_label">Controller wireless SHIELD</string>
+  <string name="quick_settings_wifi_js_off_label">Controller wireless SHIELD</string>
+  <string name="quick_settings_wifi_js_default">0</string>
+</resources>

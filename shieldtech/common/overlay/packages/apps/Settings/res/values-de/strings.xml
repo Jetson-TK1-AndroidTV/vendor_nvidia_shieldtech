@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string name="controller_settings">Controller</string>
+  <string name="controller_settings_title">Controller</string>
+  <string name="controller_rsmouse_text">Verwenden Sie den rechten Stick als virtuelle Maus</string>
+  <string name="controller_rsmouse_summary">Klicken Sie mit dem rechten Schalter, der A-Taste oder durch Herunterdrücken des rechten Sticks</string>
+  <string name="mouse_mode_text">Mouse als Touch-Eingabegerät behandeln</string>
+  <string name="mouse_mode_summary">Alle Mausklicks als Bildschirmberührungen behandeln</string>
+  <string name="nv_category_vmouse">Virtuelle Maus</string>
+  <string name="title_header_tv_mode">"Konsolenmodus"</string>
+  <string name="title_enter_tv_mode">"Konsolenmodus jetzt aufrufen"</string>
+  <string name="title_exit_tv_mode">"Konsolenmodus jetzt beenden"</string>
+  <string name="title_prompt_tv_mode">"Zum Umschalten des Modus auffordern, wenn HDMI verbunden wird"</string>
+  <string name="fullscreen_mode_title">Vollbildmodus</string>
+  <string name="fullscreen_mode_text">Status- und Navigationsleiste ausblenden</string>
+  <string name="nv_category_blake">Drahtloser SHIELD-Controller</string>
+  <string name="blake_pair">Einen drahtlosen Controller anschließen</string>
+  <string name="blake_touch">Touchpad aktivieren</string>
+  <string name="blake_touch_summary">Touchpad am drahtlosen SHIELD-Controller aktivieren</string>
+  <string name="blake_forget_controllers">Alle Controller entfernen</string>
+  <string name="blake_quick_help">Kurzanleitung</string>
+</resources>
