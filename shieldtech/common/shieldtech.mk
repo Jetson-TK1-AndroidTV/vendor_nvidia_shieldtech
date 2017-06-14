@@ -1,6 +1,6 @@
-# NVIDIA Tegra4 "Dalmore" development system
+# NVIDIA Tegra124 development system
 #
-# Copyright (c) 2012 NVIDIA Corporation.  All rights reserved.
+# Copyright (c) 2017 NVIDIA Corporation.  All rights reserved.
 
 
 BOARD_USES_SHIELDTECH := true
@@ -65,7 +65,8 @@ endif
 # Apk
 PRODUCT_PACKAGES += \
      BlakePairing \
-     NvShieldTech
+     NvShieldTech \
+     NvRpxService
 
 # Audio hals
 PRODUCT_PACKAGES += \
