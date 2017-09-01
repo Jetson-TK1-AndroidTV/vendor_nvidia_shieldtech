@@ -40,7 +40,12 @@ ifneq ($(SHIELDTECH_FEATURE_BLAKE),true)
 #DEVICE_PACKAGE_OVERLAYS += vendor/nvidia/shieldtech/common/feature_overlays/blake
 PRODUCT_PACKAGES += \
   blake \
-  lota
+  lota \
+  libaudiostats \
+  libaudiopolicymanager \
+  audio.nvrc.tegra \
+  audio.nvwc.tegra \
+  hdmi_cec.tegra
 endif
 
 # NvAndroidOSC
@@ -62,11 +67,11 @@ endif
 # Generic ShieldTech Features
 # DEVICE_PACKAGE_OVERLAYS += vendor/nvidia/shieldtech/common/overlay
 
-# Apk
+# Apk ConsoleUI
 PRODUCT_PACKAGES += \
-     BlakePairing \
      NvShieldTech \
-     NvRpxService
+     NvRpxService \
+     PrebuiltShieldRemoteService
 
 # Audio hals
 PRODUCT_PACKAGES += \
@@ -80,7 +85,12 @@ PRODUCT_PACKAGES += \
     libhidraw \
     libnvhwc_service \
     libshieldtech \
-    libadaptordecoder
+    libadaptordecoder \
+    libaudiostats \
+    libaudiopolicymanager \
+    audio.nvrc.tegra \
+    audio.nvwc.tegra \
+    hdmi_cec.tegra
 
 # Media files
 PRODUCT_COPY_FILES += \

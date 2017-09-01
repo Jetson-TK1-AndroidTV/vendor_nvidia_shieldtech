@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-  <string name="accessibility_quick_settings_shieldmenu">分享</string>
-  <string name="quick_settings_shieldmenu_on_label">分享</string>
-  <string name="quick_settings_shieldmenu_off_label">分享</string>
-  <string name="quick_settings_shieldmenu_default">0</string>
-</resources>
